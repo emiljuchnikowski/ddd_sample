@@ -1,0 +1,11 @@
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\bin\Release\XXX.Models.dll.config
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\bin\Release\XXX.Models.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\bin\Release\XXX.Models.pdb
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\bin\Release\EntityFramework.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\bin\Release\Newtonsoft.Json.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\bin\Release\EntityFramework.xml
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\bin\Release\Newtonsoft.Json.xml
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\obj\Release\XXX.Models.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\obj\Release\XXX.Models.pdb

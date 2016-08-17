@@ -1,0 +1,9 @@
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Providers\bin\Release\Colway.Providers.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Providers\bin\Release\Colway.Providers.pdb
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Providers\bin\Release\Colway.Models.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Providers\bin\Release\Newtonsoft.Json.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Providers\bin\Release\Colway.Models.pdb
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Providers\bin\Release\Newtonsoft.Json.xml
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Providers\obj\Release\Colway.Providers.csprojResolveAssemblyReference.cache
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Providers\obj\Release\Colway.Providers.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Providers\obj\Release\Colway.Providers.pdb

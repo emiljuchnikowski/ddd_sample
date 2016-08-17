@@ -1,0 +1,7 @@
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Infrastructure.Diagnostics\bin\Release\XXX.Infrastructure.Diagnostics.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Infrastructure.Diagnostics\bin\Release\XXX.Infrastructure.Diagnostics.pdb
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Infrastructure.Diagnostics\bin\Release\NLog.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Infrastructure.Diagnostics\bin\Release\NLog.xml
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Infrastructure.Diagnostics\obj\Release\XXX.Infrastructure.Diagnostics.csprojResolveAssemblyReference.cache
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Infrastructure.Diagnostics\obj\Release\XXX.Infrastructure.Diagnostics.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Infrastructure.Diagnostics\obj\Release\XXX.Infrastructure.Diagnostics.pdb

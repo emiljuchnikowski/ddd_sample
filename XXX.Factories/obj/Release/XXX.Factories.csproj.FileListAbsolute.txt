@@ -1,0 +1,4 @@
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Factories\bin\Release\XXX.Factories.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Factories\bin\Release\XXX.Factories.pdb
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Factories\obj\Release\XXX.Factories.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Factories\obj\Release\XXX.Factories.pdb

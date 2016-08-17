@@ -1,0 +1,12 @@
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\bin\Release\Colway.Models.dll.config
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\bin\Release\Colway.Models.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\bin\Release\Colway.Models.pdb
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\bin\Release\EntityFramework.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\bin\Release\Newtonsoft.Json.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\bin\Release\EntityFramework.xml
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\bin\Release\Newtonsoft.Json.xml
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\obj\Release\Colway.Models.csprojResolveAssemblyReference.cache
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\obj\Release\Colway.Models.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Models\obj\Release\Colway.Models.pdb

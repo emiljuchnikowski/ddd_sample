@@ -1,0 +1,7 @@
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Providers\bin\Release\XXX.Providers.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Providers\bin\Release\XXX.Providers.pdb
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Providers\bin\Release\XXX.Models.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Providers\bin\Release\XXX.Models.pdb
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Providers\obj\Release\XXX.Providers.csprojResolveAssemblyReference.cache
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Providers\obj\Release\XXX.Providers.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Providers\obj\Release\XXX.Providers.pdb

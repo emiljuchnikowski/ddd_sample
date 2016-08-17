@@ -1,0 +1,13 @@
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Infrastructure.Providers\bin\Release\Colway.Infrastructure.Providers.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Infrastructure.Providers\bin\Release\Colway.Infrastructure.Providers.pdb
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Infrastructure.Providers\bin\Release\Colway.Infrastructure.Settings.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Infrastructure.Providers\bin\Release\Colway.Models.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Infrastructure.Providers\bin\Release\Colway.Providers.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Infrastructure.Providers\bin\Release\Newtonsoft.Json.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Infrastructure.Providers\bin\Release\Colway.Infrastructure.Settings.pdb
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Infrastructure.Providers\bin\Release\Colway.Models.pdb
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Infrastructure.Providers\bin\Release\Colway.Providers.pdb
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Infrastructure.Providers\bin\Release\Newtonsoft.Json.xml
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Infrastructure.Providers\obj\Release\Colway.Infrastructure.Providers.csprojResolveAssemblyReference.cache
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Infrastructure.Providers\obj\Release\Colway.Infrastructure.Providers.dll
+C:\Users\Emil\Source\Workspaces\Colway\Colway.Infrastructure.Providers\obj\Release\Colway.Infrastructure.Providers.pdb
